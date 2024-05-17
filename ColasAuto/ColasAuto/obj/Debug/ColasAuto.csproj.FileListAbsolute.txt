@@ -1,0 +1,6 @@
+D:\General Seiryu\Documentos\proyectos visual\2do Sistemas (2024)\ColasAuto\ColasAuto\bin\Debug\ColasAuto.exe.config
+D:\General Seiryu\Documentos\proyectos visual\2do Sistemas (2024)\ColasAuto\ColasAuto\bin\Debug\ColasAuto.exe
+D:\General Seiryu\Documentos\proyectos visual\2do Sistemas (2024)\ColasAuto\ColasAuto\bin\Debug\ColasAuto.pdb
+D:\General Seiryu\Documentos\proyectos visual\2do Sistemas (2024)\ColasAuto\ColasAuto\obj\Debug\ColasAuto.csprojResolveAssemblyReference.cache
+D:\General Seiryu\Documentos\proyectos visual\2do Sistemas (2024)\ColasAuto\ColasAuto\obj\Debug\ColasAuto.exe
+D:\General Seiryu\Documentos\proyectos visual\2do Sistemas (2024)\ColasAuto\ColasAuto\obj\Debug\ColasAuto.pdb
